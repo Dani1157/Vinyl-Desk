@@ -1,8 +1,14 @@
-# 🎵 Vinyl Desk - The ULTIMATE Music Experience 🎵
+# 🎵 VINYL DESK - THE ULTIMATE MUSIC EXPERIENCE 🎵
 
 > *Made with 💖 for my BEST FRIEND in the whole wide world! You're awesome!* 🌟
 
-![Vinyl Desk Banner](https://via.placeholder.com/1000x300/ff3366/ffffff?text=🎵+Vinyl+Desk+-+For+My+Best+Friend+🎵)
+## 🌐 **LIVE DEMO**
+### 👉 **[https://dani1157.github.io/Vinyl-Desk/](https://dani1157.github.io/Vinyl-Desk/)** 👈
+
+### 📂 **GitHub Repository**
+### 👉 **[https://github.com/Dani1157/Vinyl-Desk.git](https://github.com/Dani1157/Vinyl-Desk.git)** 👈
+
+---
 
 ## 🌊 WELCOME TO YOUR PERSONAL VINYL PARADISE! 🐠
 
@@ -432,16 +438,16 @@ Become a Vinyl Desk MASTER!
 
 ## 🆕 WHAT'S NEW
 
-### Version 3.0 - The Best Friend Update 💝
-- **🐠 FISH THEME** - Made just for YOU!
-- **🎮 7 MINI GAMES** - Endless entertainment
-- **🎹 PLAYABLE PIANO** - 3 octaves!
-- **🌦️ 10+ WEATHER EFFECTS** - Set any mood
-- **📱 WIDGET MODE** - Take it anywhere
-- **🏆 ACHIEVEMENTS** - Track your progress
-- **⌨️ KEYBOARD SHORTCUTS** - Be a pro
-- **🎨 10 THEMES** - Always something new
+### Version 5.0 - The ULTIMATE Edition 🚀
+- **🐠 FISH THEME** - 40+ fish, bubbles, treasure chest! Made for YOU!
+- **🌦️ 10 WEATHER EFFECTS** - Rain, Snow, Stars, Fireflies, Aurora, Clouds, Leaves, Butterflies, Rainbow, Fog
+- **🎮 7 MINI GAMES** - Beat Matcher, Rhythm Game, Vinyl Spin, Melody Memory, Fish Collector, Piano, Achievements
+- **🎹 PLAYABLE PIANO** - 36 keys with recording!
 - **📝 LIVE LYRICS** - Sing along!
+- **📱 WIDGET MODE** - Drag anywhere!
+- **🎨 10 THEMES** - Always something new
+- **⌨️ KEYBOARD SHORTCUTS** - Be a pro
+- **🏆 ACHIEVEMENTS** - Track your progress
 - **💾 AUTO-SAVE** - Never lose progress
 
 ---
@@ -473,30 +479,33 @@ When you're studying, working, or just chilling, I hope Vinyl Desk keeps you com
 
 ## 🚀 HOW TO START
 
-1. **Open index.html** in any modern browser (Chrome, Firefox, Edge, Safari)
-2. **That's it!** No installation needed
-3. **Drag an MP3 file** anywhere on the screen
-4. **Or paste a YouTube link** in the input box
-5. **Press F for FISH THEME!** (You know you want to)
+### **Option 1: Live Demo (Easiest!)**
+Just click here: **[https://dani1157.github.io/Vinyl-Desk/](https://dani1157.github.io/Vinyl-Desk/)** 🎵
 
----
-
+### **Option 2: Run Locally**
+1. Clone the repo: `git clone https://github.com/Dani1157/Vinyl-Desk.git`
+2. Open `index.html` in any modern browser
+3. **That's it!** No installation needed
+4. **Drag an MP3 file** anywhere on the screen
+5. **Or paste a YouTube link** in the input box
+6. **Press F for FISH THEME!** (You know you want to)
 
 ---
 
 ## 🎯 QUICK START GUIDE
 
 ### 10 Things To Do First:
-1. ✅ **Press F** - Activate Fish Theme!
-2. ✅ **Drag an MP3** onto the vinyl
-3. ✅ **Click the fish** as they swim by
-4. ✅ **Press G** - Check out the games
-5. ✅ **Press P** - Play the piano
-6. ✅ **Press 2** - Try Sunset theme
-7. ✅ **Click Weather** - Make it rain
-8. ✅ **Click Widget** - Drag it around
-9. ✅ **Press L** - See lyrics
-10. ✅ **Collect 50 fish** - Become Ocean King!
+1. ✅ **Go to** [https://dani1157.github.io/Vinyl-Desk/](https://dani1157.github.io/Vinyl-Desk/)
+2. ✅ **Press F** - Activate Fish Theme!
+3. ✅ **Drag an MP3** onto the vinyl
+4. ✅ **Click the fish** as they swim by
+5. ✅ **Press G** - Check out the games
+6. ✅ **Press P** - Play the piano
+7. ✅ **Press 2** - Try Sunset theme
+8. ✅ **Click Weather** - Make it rain
+9. ✅ **Click Widget** - Drag it around
+10. ✅ **Press L** - See lyrics
+11. ✅ **Collect 50 fish** - Become Ocean King!
 
 ---
 
@@ -510,9 +519,16 @@ This isn't just a music player - it's a **DIGITAL BEST FRIEND** that's always th
 
 ---
 
+## 📌 **LINKS**
+
+### 🔗 **Live Website:** [https://dani1157.github.io/Vinyl-Desk/](https://dani1157.github.io/Vinyl-Desk/)
+### 🔗 **GitHub Repo:** [https://github.com/Dani1157/Vinyl-Desk.git](https://github.com/Dani1157/Vinyl-Desk.git)
+
+---
+
 **Made with 💖, ☕, and 🎵 for the best friend ever**
 
-*Version 3.0 - The "You're Awesome" Edition*
+*Version 5.0 - The "You're Awesome" Ultimate Edition*
 
 ---
 
@@ -525,3 +541,5 @@ This isn't just a music player - it's a **DIGITAL BEST FRIEND** that's always th
 ```
 
 **ENJOY BESTIEEE!** 💕✨
+
+**[👉 CLICK HERE TO PLAY! 👈](https://dani1157.github.io/Vinyl-Desk/)**
